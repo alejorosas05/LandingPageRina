@@ -1,0 +1,14 @@
+/*Style header*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+h2 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+p {
+  color: red;
+}
